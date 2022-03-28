@@ -5,8 +5,8 @@ $config = array(
     'facebook_url' => 'https://www.facebook.com/ruspect',
     'db' => array(
             'server' => 'localhost',
-            'username' => 'root',
-            'password' => '',
+            'username' => 'user',
+            'password' => 'user',
             'name' => 'feedman'
     )
 );
